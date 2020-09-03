@@ -1,0 +1,21 @@
+git status
+
+git add . 
+
+git commit
+
+git push origin master
+
+
+--------------------------------
+//FC search app with ffxiv api//
+-Greet user and ask them to enter the name of the FC they want to search up
+-Return to terminal list of all FC based on search
+-ask input of which FC from results
+-show additional info about THAT specific FC
+
+
+
+-CLI class: dealing with things showing onto terminal
+-API class: dealing with API stuff
+-FC Class: dealing with all FCs?
