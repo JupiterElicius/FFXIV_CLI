@@ -5,7 +5,7 @@ class CLI
         puts "Hey there! Welcome to my FC search app."
         input = ""
         while input !=  "exit!"
-        puts "Please enter a name to search"
+        puts "Please enter a name to search, when finished please enter 'exit!' to close the app"
         input = gets.strip
         break if input == "exit!"
             if temp = check_search(input) == true
